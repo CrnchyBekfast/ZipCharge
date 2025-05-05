@@ -1,0 +1,11 @@
+.hr-short {
+    border: 0;
+    height: 3px;
+    background-color: #ffffff; /* A muted color (e.g., Bootstrap secondary grey) */
+    width: 300px; /* Make it shorter */
+    margin-left: auto; /* Center align */
+    margin-right: auto; /* Center align */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    opacity: 0.8; /* Slightly transparent */
+  }
